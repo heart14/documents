@@ -140,9 +140,15 @@ Address already in use
 
 #### 解决方法
 
-参考链接 http://roc.havemail.cn/archives/770.html
 
 
+
+
+### 参考链接
+
+ http://roc.havemail.cn/archives/770.html
+
+ https://www.cnblogs.com/zhiyouwu/p/11546097.html
 
 
 
